@@ -1,0 +1,3 @@
+34 89 DS data science chirla
+23 89 CSE computer vijayawada srm.edu.in
+56 93 ECE Electronics guntur vit.edu.in
